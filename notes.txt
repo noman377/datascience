@@ -1,0 +1,1 @@
+conda create -n bearClassifier python=3.12.4 fastbook fastai voila
